@@ -2,4 +2,4 @@
 
 ## Descrição
 
-O **Nubank Clone** é uma aplicação inspirada no Nubank um projeto bem simples
+O <p style="color:purple;">**Nubank Clone**</p> é uma aplicação inspirada no Nubank um projeto bem simples
